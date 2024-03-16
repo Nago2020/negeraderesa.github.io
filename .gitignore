@@ -19,3 +19,4 @@ layouts/
 index.Rmd
 README.md
 .nojekyll
+config.toml
